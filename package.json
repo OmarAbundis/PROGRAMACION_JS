@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mongodb": "^4.11.0",
+    "npm": "^8.19.2"
+  },
+  "name": "programacion_js",
+  "description": "Aquí se pondrán una serie de ejercicios en JavaScript",
+  "version": "1.0.0",
+  "main": "Ej1_ArchivoJSON.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarAbundis/PROGRAMACION_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarAbundis/PROGRAMACION_JS/issues"
+  },
+  "homepage": "https://github.com/OmarAbundis/PROGRAMACION_JS#readme"
+}
